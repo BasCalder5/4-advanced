@@ -5,7 +5,7 @@
 		<Option title="SpaceInvaders"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\..\MinGW\;CMake Files\..\..\..\..\..\..\..\..\..\MinGW\lib\;CMake Files\..\..\..\..\..\..\..\..\..\MinGW\lib\cmake\;CMake Files\..\..\..\..\..\..\..\..\..\MinGW\lib\cmake\SDL2\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/cmake-build-debug"/>
@@ -80,11 +80,20 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/Game.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/Game.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
 		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/main.cpp">
 			<Option target="SpaceInvaders"/>
 		</Unit>
 		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/../../../../../../../../../MinGW/lib/cmake/SDL2/sdl2-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\..\MinGW\lib\cmake\SDL2\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
