@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77408ac8-6914-42b6-8301-43335e242083" name="Default Changelist" comment="" />
+    <list default="true" id="77408ac8-6914-42b6-8301-43335e242083" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Game.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +42,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="SpaceInvaders" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SpaceInvaders" TARGET_NAME="SpaceInvaders" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SpaceInvaders" RUN_TARGET_NAME="SpaceInvaders">
@@ -54,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586260825566</updated>
-      <workItem from="1586260827046" duration="1402000" />
+      <workItem from="1586260827046" duration="5453000" />
     </task>
     <servers />
   </component>
@@ -73,13 +85,49 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="742" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1586262827814">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="240" key="#com.intellij.ide.util.MemberChooser/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586262827814" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1586261153030">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586261153030" />
-    <state x="461" y="167" key="SettingsEditor" timestamp="1586261159997">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1586266391343">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586261159997" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266391343" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1586266391342">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266391342" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1586266391342">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266391342" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1586266391342">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266391342" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1586266162671">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266162671" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1586266162671">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266162671" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1586266162671">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266162671" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1586266162671">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266162671" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1586262615492">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586262615492" />
   </component>
 </project>
