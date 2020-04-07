@@ -1,0 +1,3 @@
+C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/cmake-build-debug/CMakeFiles/SpaceInvaders.dir
+C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/cmake-build-debug/CMakeFiles/rebuild_cache.dir
