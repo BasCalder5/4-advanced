@@ -20,6 +20,7 @@ public:
 
     bool rendering() {return isRendering;}
 private:
+    int cnt = 0;
     bool isRendering;
     SDL_Window *window;
     SDL_Renderer *renderer;

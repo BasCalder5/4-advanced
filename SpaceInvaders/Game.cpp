@@ -38,6 +38,8 @@ void Game::handle() {
 }
 
 void Game::update() {
+    cnt++;
+    std::cout << cnt << std::endl;
 }
 
 void Game::render() {
