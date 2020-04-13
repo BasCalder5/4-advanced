@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SpaceInvaders.dir/Game.cpp.obj"
-  "CMakeFiles/SpaceInvaders.dir/main.cpp.obj"
+  "CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj"
+  "CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj"
   "SpaceInvaders.exe"
   "SpaceInvaders.exe.manifest"
   "SpaceInvaders.pdb"
