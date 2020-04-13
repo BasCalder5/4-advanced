@@ -4,6 +4,10 @@
 CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj: ../src/Game.cpp
 CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj: ../src/Game.h
 
+CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj: ../src/Terminal.cpp
+CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj: ../src/Terminal.h
+
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/Game.h
+CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/Terminal.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/main.cpp
 

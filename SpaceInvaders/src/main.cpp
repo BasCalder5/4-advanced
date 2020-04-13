@@ -1,15 +1,19 @@
-#include <windows.h>
 #include "Game.h"
+#include "Terminal.h"
 #include "SDL2/SDL.h"
 
 Game *game = nullptr;
+Terminal *terminal = nullptr;
 
-void clearScreen() // temp measure to clear console for fps rendering
-{
-    COORD cursorPosition;
-    cursorPosition.X = 0;
-    cursorPosition.Y = 0;
-    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), cursorPosition);
+double calcFps(Uint32 startTime, int delay) {
+    Uint32 fTime = SDL_GetTicks() - startTime;
+
+    if(delay > fTime)            // FPS limiter to 60
+    {
+        SDL_Delay(delay - fTime);
+    }
+    fTime = SDL_GetTicks() - startTime;
+    return 1000.0 / fTime;
 }
 
 int main(int argc, char **argv) {
@@ -18,12 +22,10 @@ int main(int argc, char **argv) {
     const int SCALE = 2;
     const int HEIGHT = 360;
     const int WIDTH = 480;
-
     Uint32 fStart;
-    int fTime;
-    float fps;
 
     game = new Game;
+    terminal = new Terminal;
 
     game->init("SpaceInvaders Engine test", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, WIDTH * SCALE,
                HEIGHT * SCALE);
@@ -36,15 +38,7 @@ int main(int argc, char **argv) {
         game->update(); // Update objects
         game->render(); // Render changes
 
-        fTime = SDL_GetTicks() - fStart;
-        if(fDelay > fTime)            // FPS limiter to 60
-        {
-            SDL_Delay(fDelay - fTime);
-        }
-        fTime = SDL_GetTicks() - fStart;
-        fps = 1000.0 / fTime;
-        clearScreen();
-        std::cout << std::endl << std::endl << std::endl << "Fps: " << fps << std::endl;
+        terminal->updateTerminalData(calcFps(fStart, fDelay));
     }
     game->destroy();
     return 0;

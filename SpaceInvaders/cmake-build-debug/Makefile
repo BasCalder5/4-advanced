@@ -149,6 +149,33 @@ src/Game.cpp.s:
 	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Game.cpp.s
 .PHONY : src/Game.cpp.s
 
+src/Terminal.obj: src/Terminal.cpp.obj
+
+.PHONY : src/Terminal.obj
+
+# target to build an object file
+src/Terminal.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj
+.PHONY : src/Terminal.cpp.obj
+
+src/Terminal.i: src/Terminal.cpp.i
+
+.PHONY : src/Terminal.i
+
+# target to preprocess a source file
+src/Terminal.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.i
+.PHONY : src/Terminal.cpp.i
+
+src/Terminal.s: src/Terminal.cpp.s
+
+.PHONY : src/Terminal.s
+
+# target to generate assembly for a file
+src/Terminal.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.s
+.PHONY : src/Terminal.cpp.s
+
 src/main.obj: src/main.cpp.obj
 
 .PHONY : src/main.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... src/Game.obj
 	@echo ... src/Game.i
 	@echo ... src/Game.s
+	@echo ... src/Terminal.obj
+	@echo ... src/Terminal.i
+	@echo ... src/Terminal.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

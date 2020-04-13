@@ -7,9 +7,9 @@
 class Game {
 
 public:
-    Game();
+    Game() = default;
 
-    ~Game();
+    ~Game() = default;
 
     void init(const char* title, int xpos, int ypos, int width, int height);
 
@@ -20,7 +20,6 @@ public:
 
     bool rendering() {return isRendering;}
 private:
-    int cnt = 0;
     bool isRendering;
     SDL_Window *window;
     SDL_Renderer *renderer;
