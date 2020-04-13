@@ -13,7 +13,7 @@ void Game::init(const char *title, int xpos, int ypos, int width, int height) {
         window = SDL_CreateWindow(title, xpos, ypos, width, height, flags);
         if (window)
             std::cout << "Window created succesfully..." << std::endl;
-        renderer = SDL_CreateRenderer(window, -1, flags);
+        renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);  // flag for using gpu for rendering
         if (renderer)
         {
             SDL_SetRenderDrawColor(renderer, 255,0,255, 255);
