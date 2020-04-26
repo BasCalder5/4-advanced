@@ -12,34 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77408ac8-6914-42b6-8301-43335e242083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SDLGame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SDLGame.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/linklibs.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/AFactory.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SDLFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDLFactory.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
@@ -99,7 +79,7 @@
       <workItem from="1586779423730" duration="1158000" />
       <workItem from="1587906809848" duration="42000" />
       <workItem from="1587906866209" duration="4000" />
-      <workItem from="1587909540322" duration="2403000" />
+      <workItem from="1587909540322" duration="3283000" />
     </task>
     <servers />
   </component>
@@ -135,28 +115,28 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586261153030" />
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1587911459661">
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1587912812163">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587911459661" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587912812163" />
     <state width="1877" height="223" key="GridCell.Tab.0.bottom/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.bottom/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1587911459661">
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1587912812163">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.center/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587911459661" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587912812163" />
     <state width="1877" height="223" key="GridCell.Tab.0.center/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.center/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1587911459660">
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1587912812163">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.left/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587911459660" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587912812163" />
     <state width="1877" height="223" key="GridCell.Tab.0.left/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.left/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1587911459661">
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1587912812163">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.right/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587911459661" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587912812163" />
     <state width="1877" height="223" key="GridCell.Tab.0.right/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.right/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1586277397812">

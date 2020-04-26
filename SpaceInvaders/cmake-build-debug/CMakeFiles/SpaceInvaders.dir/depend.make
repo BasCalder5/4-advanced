@@ -23,6 +23,7 @@ CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj: ../src/Terminal.h
 
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/AFactory.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/Game.h
+CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/SDLFactory.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/Terminal.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/main.cpp
 
