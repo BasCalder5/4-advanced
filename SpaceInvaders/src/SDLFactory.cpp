@@ -3,12 +3,13 @@
 //
 
 #include "SDLFactory.h"
+#include "SDLGame.h"
 
 SDLFactory::SDLFactory() {}
 
 SDLFactory::~SDLFactory() {}
 
 Game *SDLFactory::createGame() {
-    Game *game = new Game();
+    Game *game = new SDLGame();
     return game;
 }

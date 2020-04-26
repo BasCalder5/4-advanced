@@ -9,20 +9,16 @@ class Game {
 public:
     Game() = default;
 
-    ~Game() = default;
+    virtual ~Game() = default;
 
-    void init(const char* title, int xpos, int ypos, int width, int height);
+    virtual void init(const char* title, int xpos, int ypos, int width, int height);
 
-    void handle();
-    void update();
-    void render();
-    void destroy();
+    virtual void handle();
+    virtual void update();
+    virtual void render();
+    virtual void destroy();
 
-    bool rendering() {return isRendering;}
-private:
-    bool isRendering;
-    SDL_Window *window;
-    SDL_Renderer *renderer;
+    virtual bool rendering();
 
 };
 

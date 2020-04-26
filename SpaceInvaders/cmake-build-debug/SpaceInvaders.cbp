@@ -98,6 +98,12 @@
 		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLFactory.h">
 			<Option target="SpaceInvaders"/>
 		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLGame.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLGame.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
 		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Terminal.cpp">
 			<Option target="SpaceInvaders"/>
 		</Unit>

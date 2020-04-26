@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/AFactory.h
+Game.h
+C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
+
 C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
 SDL2/SDL.h
 C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDL2/SDL.h
@@ -21,4 +25,6 @@ Terminal.h
 C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Terminal.h
 SDL2/SDL.h
 C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDL2/SDL.h
+AFactory.h
+C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/AFactory.h
 

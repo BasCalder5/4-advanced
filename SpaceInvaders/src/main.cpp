@@ -1,9 +1,10 @@
 #include "Game.h"
 #include "Terminal.h"
 #include "SDL2/SDL.h"
+#include "AFactory.h"
 
-Game *game = nullptr;
 Terminal *terminal = nullptr;
+AFactory *AF = new AFactory();
 
 double calcFps(Uint32 startTime, int delay) {
     Uint32 fTime = SDL_GetTicks() - startTime;
@@ -18,13 +19,15 @@ double calcFps(Uint32 startTime, int delay) {
 
 int main(int argc, char **argv) {
 
-    const int fDelay = 17; // 1000/60 is 16,666667 so round up
+    const int fDelay = 16; // 1000/60 is 16,666667 so round down
     const int SCALE = 2;
     const int HEIGHT = 360;
     const int WIDTH = 480;
     Uint32 fStart;
 
-    game = new Game;
+
+
+    Game *game = AF->createGame();
     terminal = new Terminal; // temp to show data in terminal
 
     game->init("SpaceInvaders Engine test", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, WIDTH * SCALE,
