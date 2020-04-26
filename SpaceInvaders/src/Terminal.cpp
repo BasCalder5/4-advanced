@@ -4,7 +4,7 @@
 
 void Terminal::updateTerminalData(double fps) {
     clearScreen();
-    std::cout << std::endl << std::endl << std::endl << "Fps: " << fps << std::endl;
+    std::cout << "Fps: " << fps << std::endl;
 }
 
 void Terminal::clearScreen() // clear console for fps rendering

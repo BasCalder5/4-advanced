@@ -1,6 +1,6 @@
 #include "Game.h"
 #include "Terminal.h"
-#include "SDL2/SDL.h"
+//#include "SDL2/SDL.h"
 #include "AFactory.h"
 #include "SDLFactory.h"
 
@@ -26,7 +26,6 @@ int main(int argc, char **argv) {
     const int WIDTH = 480;
     Uint32 fStart;
 
-    std::cout << "pre generating" << std::endl;
     Game *game = AF->createGame();
     terminal = new Terminal; // temp to show data in terminal
 

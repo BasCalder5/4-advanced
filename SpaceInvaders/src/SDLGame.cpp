@@ -9,7 +9,7 @@ void SDLGame::init(const char *title, int xpos, int ypos, int width, int height)
 
     if (SDL_Init(SDL_INIT_EVERYTHING) == 0) //init succesfull if == 0
     {
-        std::cout << "SDL init succesful..." << std::endl;
+        std::cout << std::endl << "SDL init succesful..." << std::endl;
         window = SDL_CreateWindow(title, xpos, ypos, width, height, flags);
         if (window)
             std::cout << "Window created succesfully..." << std::endl;
