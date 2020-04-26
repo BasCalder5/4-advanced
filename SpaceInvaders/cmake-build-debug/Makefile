@@ -122,6 +122,33 @@ SpaceInvaders/fast:
 	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/build
 .PHONY : SpaceInvaders/fast
 
+src/AFactory.obj: src/AFactory.cpp.obj
+
+.PHONY : src/AFactory.obj
+
+# target to build an object file
+src/AFactory.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj
+.PHONY : src/AFactory.cpp.obj
+
+src/AFactory.i: src/AFactory.cpp.i
+
+.PHONY : src/AFactory.i
+
+# target to preprocess a source file
+src/AFactory.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.i
+.PHONY : src/AFactory.cpp.i
+
+src/AFactory.s: src/AFactory.cpp.s
+
+.PHONY : src/AFactory.s
+
+# target to generate assembly for a file
+src/AFactory.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.s
+.PHONY : src/AFactory.cpp.s
+
 src/Game.obj: src/Game.cpp.obj
 
 .PHONY : src/Game.obj
@@ -148,6 +175,33 @@ src/Game.s: src/Game.cpp.s
 src/Game.cpp.s:
 	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Game.cpp.s
 .PHONY : src/Game.cpp.s
+
+src/SDLFactory.obj: src/SDLFactory.cpp.obj
+
+.PHONY : src/SDLFactory.obj
+
+# target to build an object file
+src/SDLFactory.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj
+.PHONY : src/SDLFactory.cpp.obj
+
+src/SDLFactory.i: src/SDLFactory.cpp.i
+
+.PHONY : src/SDLFactory.i
+
+# target to preprocess a source file
+src/SDLFactory.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.i
+.PHONY : src/SDLFactory.cpp.i
+
+src/SDLFactory.s: src/SDLFactory.cpp.s
+
+.PHONY : src/SDLFactory.s
+
+# target to generate assembly for a file
+src/SDLFactory.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.s
+.PHONY : src/SDLFactory.cpp.s
 
 src/Terminal.obj: src/Terminal.cpp.obj
 
@@ -212,9 +266,15 @@ help:
 	@echo ... SpaceInvaders
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... src/AFactory.obj
+	@echo ... src/AFactory.i
+	@echo ... src/AFactory.s
 	@echo ... src/Game.obj
 	@echo ... src/Game.i
 	@echo ... src/Game.s
+	@echo ... src/SDLFactory.obj
+	@echo ... src/SDLFactory.i
+	@echo ... src/SDLFactory.s
 	@echo ... src/Terminal.obj
 	@echo ... src/Terminal.i
 	@echo ... src/Terminal.s

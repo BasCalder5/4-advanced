@@ -25,7 +25,7 @@ int main(int argc, char **argv) {
     Uint32 fStart;
 
     game = new Game;
-    terminal = new Terminal;
+    terminal = new Terminal; // temp to show data in terminal
 
     game->init("SpaceInvaders Engine test", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, WIDTH * SCALE,
                HEIGHT * SCALE);
