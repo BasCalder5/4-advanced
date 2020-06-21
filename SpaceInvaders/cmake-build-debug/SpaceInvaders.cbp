@@ -104,10 +104,52 @@
 		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLGame.h">
 			<Option target="SpaceInvaders"/>
 		</Unit>
-		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Terminal.cpp">
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLTexturemanager.cpp">
 			<Option target="SpaceInvaders"/>
 		</Unit>
-		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Terminal.h">
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLTexturemanager.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/UI/Background.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/UI/Background.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateAFactory.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateAFactory.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateSDLFactory.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateSDLFactory.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/SDLMenustate.cpp">
+			<Option target="SpaceInvaders"/>
+		</Unit>
+		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/SDLMenustate.h">
 			<Option target="SpaceInvaders"/>
 		</Unit>
 		<Unit filename="C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/main.cpp">

@@ -1,17 +1,25 @@
 #ifndef SPACEINVADERS_GAME_H
 #define SPACEINVADERS_GAME_H
 
-#include "SDL2/SDL.h"
+
 #include <iostream>
+#include "gamestates/GameStateManager.h"
 
 class Game {
 
 public:
+    int SCALE;
+    GameStateManager *gsm;
+
     Game() = default;
 
     virtual ~Game() = default;
 
-    virtual void init(const char* title, int xpos, int ypos, int width, int height);
+    virtual void init(const char* title, int width, int height, int SCALE);
+
+    virtual void setFstart();
+
+    virtual double calcFps(int delay);
 
     virtual void handle();
     virtual void update();

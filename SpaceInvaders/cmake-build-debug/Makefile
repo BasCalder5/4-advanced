@@ -230,32 +230,221 @@ src/SDLGame.cpp.s:
 	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.s
 .PHONY : src/SDLGame.cpp.s
 
-src/Terminal.obj: src/Terminal.cpp.obj
+src/SDLTexturemanager.obj: src/SDLTexturemanager.cpp.obj
 
-.PHONY : src/Terminal.obj
+.PHONY : src/SDLTexturemanager.obj
 
 # target to build an object file
-src/Terminal.cpp.obj:
-	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj
-.PHONY : src/Terminal.cpp.obj
+src/SDLTexturemanager.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj
+.PHONY : src/SDLTexturemanager.cpp.obj
 
-src/Terminal.i: src/Terminal.cpp.i
+src/SDLTexturemanager.i: src/SDLTexturemanager.cpp.i
 
-.PHONY : src/Terminal.i
+.PHONY : src/SDLTexturemanager.i
 
 # target to preprocess a source file
-src/Terminal.cpp.i:
-	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.i
-.PHONY : src/Terminal.cpp.i
+src/SDLTexturemanager.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.i
+.PHONY : src/SDLTexturemanager.cpp.i
 
-src/Terminal.s: src/Terminal.cpp.s
+src/SDLTexturemanager.s: src/SDLTexturemanager.cpp.s
 
-.PHONY : src/Terminal.s
+.PHONY : src/SDLTexturemanager.s
 
 # target to generate assembly for a file
-src/Terminal.cpp.s:
-	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.s
-.PHONY : src/Terminal.cpp.s
+src/SDLTexturemanager.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.s
+.PHONY : src/SDLTexturemanager.cpp.s
+
+src/UI/Background.obj: src/UI/Background.cpp.obj
+
+.PHONY : src/UI/Background.obj
+
+# target to build an object file
+src/UI/Background.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj
+.PHONY : src/UI/Background.cpp.obj
+
+src/UI/Background.i: src/UI/Background.cpp.i
+
+.PHONY : src/UI/Background.i
+
+# target to preprocess a source file
+src/UI/Background.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.i
+.PHONY : src/UI/Background.cpp.i
+
+src/UI/Background.s: src/UI/Background.cpp.s
+
+.PHONY : src/UI/Background.s
+
+# target to generate assembly for a file
+src/UI/Background.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.s
+.PHONY : src/UI/Background.cpp.s
+
+src/gamestates/GameStateManager.obj: src/gamestates/GameStateManager.cpp.obj
+
+.PHONY : src/gamestates/GameStateManager.obj
+
+# target to build an object file
+src/gamestates/GameStateManager.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj
+.PHONY : src/gamestates/GameStateManager.cpp.obj
+
+src/gamestates/GameStateManager.i: src/gamestates/GameStateManager.cpp.i
+
+.PHONY : src/gamestates/GameStateManager.i
+
+# target to preprocess a source file
+src/gamestates/GameStateManager.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.i
+.PHONY : src/gamestates/GameStateManager.cpp.i
+
+src/gamestates/GameStateManager.s: src/gamestates/GameStateManager.cpp.s
+
+.PHONY : src/gamestates/GameStateManager.s
+
+# target to generate assembly for a file
+src/gamestates/GameStateManager.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.s
+.PHONY : src/gamestates/GameStateManager.cpp.s
+
+src/gamestates/Gamestate.obj: src/gamestates/Gamestate.cpp.obj
+
+.PHONY : src/gamestates/Gamestate.obj
+
+# target to build an object file
+src/gamestates/Gamestate.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj
+.PHONY : src/gamestates/Gamestate.cpp.obj
+
+src/gamestates/Gamestate.i: src/gamestates/Gamestate.cpp.i
+
+.PHONY : src/gamestates/Gamestate.i
+
+# target to preprocess a source file
+src/gamestates/Gamestate.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.i
+.PHONY : src/gamestates/Gamestate.cpp.i
+
+src/gamestates/Gamestate.s: src/gamestates/Gamestate.cpp.s
+
+.PHONY : src/gamestates/Gamestate.s
+
+# target to generate assembly for a file
+src/gamestates/Gamestate.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.s
+.PHONY : src/gamestates/Gamestate.cpp.s
+
+src/gamestates/GamestateAFactory.obj: src/gamestates/GamestateAFactory.cpp.obj
+
+.PHONY : src/gamestates/GamestateAFactory.obj
+
+# target to build an object file
+src/gamestates/GamestateAFactory.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj
+.PHONY : src/gamestates/GamestateAFactory.cpp.obj
+
+src/gamestates/GamestateAFactory.i: src/gamestates/GamestateAFactory.cpp.i
+
+.PHONY : src/gamestates/GamestateAFactory.i
+
+# target to preprocess a source file
+src/gamestates/GamestateAFactory.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.i
+.PHONY : src/gamestates/GamestateAFactory.cpp.i
+
+src/gamestates/GamestateAFactory.s: src/gamestates/GamestateAFactory.cpp.s
+
+.PHONY : src/gamestates/GamestateAFactory.s
+
+# target to generate assembly for a file
+src/gamestates/GamestateAFactory.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.s
+.PHONY : src/gamestates/GamestateAFactory.cpp.s
+
+src/gamestates/GamestateSDLFactory.obj: src/gamestates/GamestateSDLFactory.cpp.obj
+
+.PHONY : src/gamestates/GamestateSDLFactory.obj
+
+# target to build an object file
+src/gamestates/GamestateSDLFactory.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj
+.PHONY : src/gamestates/GamestateSDLFactory.cpp.obj
+
+src/gamestates/GamestateSDLFactory.i: src/gamestates/GamestateSDLFactory.cpp.i
+
+.PHONY : src/gamestates/GamestateSDLFactory.i
+
+# target to preprocess a source file
+src/gamestates/GamestateSDLFactory.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.i
+.PHONY : src/gamestates/GamestateSDLFactory.cpp.i
+
+src/gamestates/GamestateSDLFactory.s: src/gamestates/GamestateSDLFactory.cpp.s
+
+.PHONY : src/gamestates/GamestateSDLFactory.s
+
+# target to generate assembly for a file
+src/gamestates/GamestateSDLFactory.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.s
+.PHONY : src/gamestates/GamestateSDLFactory.cpp.s
+
+src/gamestates/Menustate.obj: src/gamestates/Menustate.cpp.obj
+
+.PHONY : src/gamestates/Menustate.obj
+
+# target to build an object file
+src/gamestates/Menustate.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj
+.PHONY : src/gamestates/Menustate.cpp.obj
+
+src/gamestates/Menustate.i: src/gamestates/Menustate.cpp.i
+
+.PHONY : src/gamestates/Menustate.i
+
+# target to preprocess a source file
+src/gamestates/Menustate.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.i
+.PHONY : src/gamestates/Menustate.cpp.i
+
+src/gamestates/Menustate.s: src/gamestates/Menustate.cpp.s
+
+.PHONY : src/gamestates/Menustate.s
+
+# target to generate assembly for a file
+src/gamestates/Menustate.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.s
+.PHONY : src/gamestates/Menustate.cpp.s
+
+src/gamestates/SDLMenustate.obj: src/gamestates/SDLMenustate.cpp.obj
+
+.PHONY : src/gamestates/SDLMenustate.obj
+
+# target to build an object file
+src/gamestates/SDLMenustate.cpp.obj:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj
+.PHONY : src/gamestates/SDLMenustate.cpp.obj
+
+src/gamestates/SDLMenustate.i: src/gamestates/SDLMenustate.cpp.i
+
+.PHONY : src/gamestates/SDLMenustate.i
+
+# target to preprocess a source file
+src/gamestates/SDLMenustate.cpp.i:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.i
+.PHONY : src/gamestates/SDLMenustate.cpp.i
+
+src/gamestates/SDLMenustate.s: src/gamestates/SDLMenustate.cpp.s
+
+.PHONY : src/gamestates/SDLMenustate.s
+
+# target to generate assembly for a file
+src/gamestates/SDLMenustate.cpp.s:
+	$(MAKE) -f CMakeFiles\SpaceInvaders.dir\build.make CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.s
+.PHONY : src/gamestates/SDLMenustate.cpp.s
 
 src/main.obj: src/main.cpp.obj
 
@@ -305,9 +494,30 @@ help:
 	@echo ... src/SDLGame.obj
 	@echo ... src/SDLGame.i
 	@echo ... src/SDLGame.s
-	@echo ... src/Terminal.obj
-	@echo ... src/Terminal.i
-	@echo ... src/Terminal.s
+	@echo ... src/SDLTexturemanager.obj
+	@echo ... src/SDLTexturemanager.i
+	@echo ... src/SDLTexturemanager.s
+	@echo ... src/UI/Background.obj
+	@echo ... src/UI/Background.i
+	@echo ... src/UI/Background.s
+	@echo ... src/gamestates/GameStateManager.obj
+	@echo ... src/gamestates/GameStateManager.i
+	@echo ... src/gamestates/GameStateManager.s
+	@echo ... src/gamestates/Gamestate.obj
+	@echo ... src/gamestates/Gamestate.i
+	@echo ... src/gamestates/Gamestate.s
+	@echo ... src/gamestates/GamestateAFactory.obj
+	@echo ... src/gamestates/GamestateAFactory.i
+	@echo ... src/gamestates/GamestateAFactory.s
+	@echo ... src/gamestates/GamestateSDLFactory.obj
+	@echo ... src/gamestates/GamestateSDLFactory.i
+	@echo ... src/gamestates/GamestateSDLFactory.s
+	@echo ... src/gamestates/Menustate.obj
+	@echo ... src/gamestates/Menustate.i
+	@echo ... src/gamestates/Menustate.s
+	@echo ... src/gamestates/SDLMenustate.obj
+	@echo ... src/gamestates/SDLMenustate.i
+	@echo ... src/gamestates/SDLMenustate.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

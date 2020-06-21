@@ -12,10 +12,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77408ac8-6914-42b6-8301-43335e242083" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SDLTexturemanager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SDLTexturemanager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Background.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Background.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/GameStateManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/GameStateManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/Gamestate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/Gamestate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/GamestateAFactory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/GamestateAFactory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/GamestateSDLFactory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/GamestateSDLFactory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/Menustate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/Menustate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/SDLMenustate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamestates/SDLMenustate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/menubg.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/menubg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SpaceInvaders.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDLGame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDLGame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDLGame.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDLGame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Terminal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Terminal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +84,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -73,7 +117,9 @@
       <workItem from="1586779423730" duration="1158000" />
       <workItem from="1587906809848" duration="42000" />
       <workItem from="1587906866209" duration="4000" />
-      <workItem from="1587909540322" duration="4427000" />
+      <workItem from="1587909540322" duration="4639000" />
+      <workItem from="1588417602506" duration="607000" />
+      <workItem from="1592736847311" duration="15252000" />
     </task>
     <servers />
   </component>
@@ -97,10 +143,19 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586778267316" />
-    <state x="742" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1586262827814">
+    <state x="697" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592748567738">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="697" y="326" key="#com.intellij.fileTypes.FileTypeChooser/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592748567738" />
+    <state x="742" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1592755898819">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="240" key="#com.intellij.ide.util.MemberChooser/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592755898819" />
     <state x="742" y="240" key="#com.intellij.ide.util.MemberChooser/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586262827814" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592750418708">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592750418708" />
     <state x="477" y="119" key="CommitChangelistDialog2" timestamp="1586266591920">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -109,28 +164,28 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586261153030" />
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1587913633538">
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1592755421357">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587913633538" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592755421357" />
     <state width="1877" height="223" key="GridCell.Tab.0.bottom/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.bottom/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1587913633538">
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1592755421357">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.center/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587913633538" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592755421357" />
     <state width="1877" height="223" key="GridCell.Tab.0.center/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.center/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1587913633538">
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1592755421357">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.left/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587913633538" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592755421357" />
     <state width="1877" height="223" key="GridCell.Tab.0.left/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.left/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1587913633538">
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1592755421357">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.right/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1587913633538" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592755421357" />
     <state width="1877" height="223" key="GridCell.Tab.0.right/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586779408688" />
     <state width="1892" height="228" key="GridCell.Tab.0.right/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586279543224" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1586277397812">
@@ -163,9 +218,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="769" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586266599781" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1586777499066">
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup" timestamp="1592756906357">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592756906357" />
     <state x="616" y="243" key="run.anything.popup/1920.-425.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586777499066" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1592745157681">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.-151.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1592745157681" />
   </component>
 </project>

@@ -4,26 +4,87 @@
 CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: ../src/AFactory.cpp
 CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: ../src/AFactory.h
 CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: ../src/Game.h
+CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: ../src/gamestates/Menustate.h
 
 CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj: ../src/Game.cpp
 CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj: ../src/Game.h
+CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj: ../src/gamestates/Menustate.h
 
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/AFactory.h
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/Game.h
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/SDLFactory.cpp
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/SDLFactory.h
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/SDLGame.h
+CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/gamestates/Menustate.h
 
 CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/Game.h
 CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/SDLGame.cpp
 CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/SDLGame.h
+CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/SDLTexturemanager.h
+CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/UI/Background.h
+CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/gamestates/Menustate.h
 
-CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj: ../src/Terminal.cpp
-CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj: ../src/Terminal.h
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/Game.h
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/SDLGame.h
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/SDLTexturemanager.cpp
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/SDLTexturemanager.h
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/gamestates/Menustate.h
+
+CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj: ../src/UI/Background.cpp
+CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj: ../src/UI/Background.h
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: ../src/gamestates/GameStateManager.cpp
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: ../src/gamestates/GamestateAFactory.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: ../src/gamestates/GamestateSDLFactory.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: ../src/gamestates/Menustate.h
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj: ../src/gamestates/Gamestate.cpp
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj: ../src/gamestates/Menustate.h
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj: ../src/gamestates/GamestateAFactory.cpp
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj: ../src/gamestates/GamestateAFactory.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj: ../src/gamestates/Menustate.h
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/GamestateAFactory.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/GamestateSDLFactory.cpp
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/GamestateSDLFactory.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/SDLMenustate.h
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj: ../src/gamestates/Menustate.cpp
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj: ../src/gamestates/Menustate.h
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj: ../src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj: ../src/gamestates/SDLMenustate.cpp
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj: ../src/gamestates/SDLMenustate.h
 
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/AFactory.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/Game.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/SDLFactory.h
-CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/Terminal.h
+CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/gamestates/GameStateManager.h
+CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/gamestates/Gamestate.h
+CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/gamestates/Menustate.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj: ../src/main.cpp
 

@@ -82,22 +82,9 @@ CMakeFiles/SpaceInvaders.dir/src/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/Game.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\Game.cpp" -o CMakeFiles\SpaceInvaders.dir\src\Game.cpp.s
 
-CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
-CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj: ../src/Terminal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\Terminal.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\Terminal.cpp"
-
-CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\Terminal.cpp" > CMakeFiles\SpaceInvaders.dir\src\Terminal.cpp.i
-
-CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\Terminal.cpp" -o CMakeFiles\SpaceInvaders.dir\src\Terminal.cpp.s
-
 CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
 CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj: ../src/AFactory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\AFactory.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\AFactory.cpp"
 
 CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.i: cmake_force
@@ -110,7 +97,7 @@ CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.s: cmake_force
 
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj: ../src/SDLFactory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\SDLFactory.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\SDLFactory.cpp"
 
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.i: cmake_force
@@ -123,7 +110,7 @@ CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.s: cmake_force
 
 CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
 CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj: ../src/SDLGame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\SDLGame.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\SDLGame.cpp"
 
 CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.i: cmake_force
@@ -134,29 +121,147 @@ CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\SDLGame.cpp" -o CMakeFiles\SpaceInvaders.dir\src\SDLGame.cpp.s
 
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj: ../src/SDLTexturemanager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\SDLTexturemanager.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\SDLTexturemanager.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\SDLTexturemanager.cpp" > CMakeFiles\SpaceInvaders.dir\src\SDLTexturemanager.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\SDLTexturemanager.cpp" -o CMakeFiles\SpaceInvaders.dir\src\SDLTexturemanager.cpp.s
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj: ../src/gamestates/Gamestate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\gamestates\Gamestate.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\Gamestate.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\Gamestate.cpp" > CMakeFiles\SpaceInvaders.dir\src\gamestates\Gamestate.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\Gamestate.cpp" -o CMakeFiles\SpaceInvaders.dir\src\gamestates\Gamestate.cpp.s
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj: ../src/gamestates/Menustate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\gamestates\Menustate.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\Menustate.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\Menustate.cpp" > CMakeFiles\SpaceInvaders.dir\src\gamestates\Menustate.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\Menustate.cpp" -o CMakeFiles\SpaceInvaders.dir\src\gamestates\Menustate.cpp.s
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj: ../src/gamestates/GameStateManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\gamestates\GameStateManager.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GameStateManager.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GameStateManager.cpp" > CMakeFiles\SpaceInvaders.dir\src\gamestates\GameStateManager.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GameStateManager.cpp" -o CMakeFiles\SpaceInvaders.dir\src\gamestates\GameStateManager.cpp.s
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj: ../src/gamestates/GamestateAFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\gamestates\GamestateAFactory.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GamestateAFactory.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GamestateAFactory.cpp" > CMakeFiles\SpaceInvaders.dir\src\gamestates\GamestateAFactory.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GamestateAFactory.cpp" -o CMakeFiles\SpaceInvaders.dir\src\gamestates\GamestateAFactory.cpp.s
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj: ../src/gamestates/GamestateSDLFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\gamestates\GamestateSDLFactory.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GamestateSDLFactory.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GamestateSDLFactory.cpp" > CMakeFiles\SpaceInvaders.dir\src\gamestates\GamestateSDLFactory.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\GamestateSDLFactory.cpp" -o CMakeFiles\SpaceInvaders.dir\src\gamestates\GamestateSDLFactory.cpp.s
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj: ../src/gamestates/SDLMenustate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\gamestates\SDLMenustate.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\SDLMenustate.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\SDLMenustate.cpp" > CMakeFiles\SpaceInvaders.dir\src\gamestates\SDLMenustate.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\gamestates\SDLMenustate.cpp" -o CMakeFiles\SpaceInvaders.dir\src\gamestates\SDLMenustate.cpp.s
+
+CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj: CMakeFiles/SpaceInvaders.dir/flags.make
+CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj: ../src/UI/Background.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SpaceInvaders.dir\src\UI\Background.cpp.obj -c "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\UI\Background.cpp"
+
+CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\UI\Background.cpp" > CMakeFiles\SpaceInvaders.dir\src\UI\Background.cpp.i
+
+CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\src\UI\Background.cpp" -o CMakeFiles\SpaceInvaders.dir\src\UI\Background.cpp.s
+
 # Object files for target SpaceInvaders
 SpaceInvaders_OBJECTS = \
 "CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj" \
 "CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj" \
-"CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj" \
 "CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj" \
 "CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj" \
-"CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj"
+"CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj" \
+"CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj"
 
 # External object files for target SpaceInvaders
 SpaceInvaders_EXTERNAL_OBJECTS =
 
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj
-SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj
+SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/build.make
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/linklibs.rsp
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/objects1.rsp
 SpaceInvaders.exe: CMakeFiles/SpaceInvaders.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable SpaceInvaders.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\basca\OneDrive - uantwerpen\School\56-EI\6-advanced\project\4-advanced\SpaceInvaders\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable SpaceInvaders.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SpaceInvaders.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

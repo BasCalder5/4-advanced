@@ -5,25 +5,86 @@ CMakeFiles/SpaceInvaders.dir/src/AFactory.cpp.obj
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/AFactory.cpp
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/AFactory.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
 CMakeFiles/SpaceInvaders.dir/src/Game.cpp.obj
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.cpp
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
 CMakeFiles/SpaceInvaders.dir/src/SDLFactory.cpp.obj
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/AFactory.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLFactory.cpp
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLFactory.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLGame.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
 CMakeFiles/SpaceInvaders.dir/src/SDLGame.cpp.obj
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLGame.cpp
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLGame.h
-CMakeFiles/SpaceInvaders.dir/src/Terminal.cpp.obj
- C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Terminal.cpp
- C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Terminal.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLTexturemanager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/UI/Background.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/SDLTexturemanager.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLGame.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLTexturemanager.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLTexturemanager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/UI/Background.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/UI/Background.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/UI/Background.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GameStateManager.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateAFactory.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateSDLFactory.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Gamestate.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateAFactory.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateAFactory.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateAFactory.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/GamestateSDLFactory.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateAFactory.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateSDLFactory.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GamestateSDLFactory.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/SDLMenustate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/Menustate.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+CMakeFiles/SpaceInvaders.dir/src/gamestates/SDLMenustate.cpp.obj
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/SDLMenustate.cpp
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/SDLMenustate.h
 CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/AFactory.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Game.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/SDLFactory.h
- C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/Terminal.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/GameStateManager.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Gamestate.h
+ C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/gamestates/Menustate.h
  C:/Users/basca/OneDrive - uantwerpen/School/56-EI/6-advanced/project/4-advanced/SpaceInvaders/src/main.cpp
